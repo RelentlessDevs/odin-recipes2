@@ -11,4 +11,9 @@
 }
 h1{
     margin-left: 500px;
+    font-family:'Courier New', Courier, monospace
+}
+html, body {
+    margin: 10px;
+    
 }
